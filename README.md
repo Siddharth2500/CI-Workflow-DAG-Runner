@@ -12,7 +12,7 @@
 - Collects **artifacts per job** into `./artifacts/<jobname>/`  
 - Works in **Google Colab, local dev, or Docker**  
 
----
+------
 
 ## 🛠 Tech & Languages
 
